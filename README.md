@@ -72,3 +72,8 @@ Ensure you have the following tools installed:
    ```bash
    http://localhost:8000/yourRequestUrl
    ```
+
+3. **My postman**:
+   ```bash
+   https://api.postman.com/collections/27046007-c0abdabe-1bc8-474d-8448-4e184362c2d5?access_key=PMAT-01JENFNY7NYQSJ2621FV4ABX5Q
+   ```
